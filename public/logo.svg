@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 180 50" width="180" height="50">
+  <!-- Single-color, classic style in vibrant blue -->
+  <defs>
+    <style>
+      .pin { fill: #007BFF; }
+      .text { font-family: "Georgia", serif; font-size: 32px; fill: #007BFF; font-weight: bold; }
+    </style>
+  </defs>
+
+  <!-- More detailed, attractive location pin icon -->
+  <g transform="translate(0,5) scale(1.25)">
+    <path class="pin" d="M12 2C8.686 2 6 4.686 6 8c0 4 6 12 6 12s6-8 6-12c0-3.314-2.686-6-6-6zm0 8a2 2 0 110-4 2 2 0 010 4z"/>
+  </g>
+
+  <!-- Text 'ATG' -->
+  <text x="40" y="36" class="text">ATG</text>
+</svg>
