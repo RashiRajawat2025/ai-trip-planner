@@ -76,7 +76,7 @@ export default function Header() {
             animate={{ opacity: 1 }}
             transition={{ delay: 0.3, duration: 1 }}
           >
-            ATG
+           ROAMIFY
           </motion.span>
         </motion.a>
 
